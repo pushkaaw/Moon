@@ -6,7 +6,7 @@ date: 2019-01-12
 comments: false
 ---
     
-<center>Seer my<a href="https://pushkaaw.github.io/Moon/projects/"><b>projects</b></a> or contact me at ....</center>
+<center>Seer my <a href="https://pushkaaw.github.io/Moon/projects/"><b>projects</b></a> or contact me at ....</center>
 
 ## What I enjoy doing
 * dsfasd
