@@ -7,8 +7,8 @@ date: 2019-01-12
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-<center><a href="https://pushkaaw.github.io/Moon/projects/"><b>my projectw</b></a> is a minimal, one column jekyll theme.</center>
+<!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
+<center> Hello, I'm a siberian princess called Pushka<a href="https://pushkaaw.github.io/Moon/projects/"><b>my projects</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
