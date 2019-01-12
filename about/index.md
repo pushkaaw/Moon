@@ -1,13 +1,14 @@
 ---
 layout: page
 <!-- title: About the Theme -->
-title: About me -- Pushka AW
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2019-01-12
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://pushkaaw.github.io/Moon/projects/"><b>my projectw</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
 * Minimal, you can focus on your content
