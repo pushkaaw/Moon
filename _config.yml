@@ -44,7 +44,7 @@ github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -61,6 +61,7 @@ instagram:          username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+gitlab: username
 
 # Gems
 gems:
