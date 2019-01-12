@@ -1,7 +1,7 @@
 ---
 layout: page
 <!-- title: About the Theme -->
-title: About me
+title: About me -- Pushka AW
 tags: [about, Jekyll, theme, moon]
 date: 2019-01-12
 comments: false
