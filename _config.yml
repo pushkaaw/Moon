@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://pushkaaw.github.io/Moon
+url:                https://pushkaaw.github.io/moon
 
 # Jekyll
 permalink:          /:title/
@@ -61,7 +61,7 @@ linkedin:          username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-gitlab: username
+#gitlab: username
 
 # Gems
 gems:
