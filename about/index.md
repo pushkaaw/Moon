@@ -6,7 +6,7 @@ date: 2019-01-12
 comments: false
 ---
     
-<center>Seer my <a href="https://pushkaaw.github.io/moon/projects/"><b>projects</b></a> or contact me at ....</center>
+<!-- <center>See my <a href="https://pushkaaw.github.io/moon/projects/"><b>selected projects</b></a> or contact me at ....</center> -->
 
 ## What I enjoy doing
 * dsfasd
@@ -21,4 +21,5 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See here my [select projects](https://pushkaaw.github.io/moon/projects/).
+<!--See here my [select projects](https://pushkaaw.github.io/moon/projects/).-->
+<center>See my <a href="https://pushkaaw.github.io/moon/projects/"><b>selected projects</b></a> or contact me at ....</center>
