@@ -21,4 +21,4 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of my Moon page](http://pushkaaw.github.io/moon) hosted on GitHub.
+See here my [select projects](https://pushkaaw.github.io/moon/projects/).
